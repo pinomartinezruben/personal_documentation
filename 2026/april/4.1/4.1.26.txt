@@ -1,0 +1,44 @@
+This is the first iteration of attempting to document my progress of becoming
+a better computer scientist.
+
+The goal of this is to try to document what I learn every day, but also
+document what I have accomplished or done that day. Someone told me this is a
+good progress to keep track what you are getting done. 
+
+Ideally this repository would contain my organized work of my personal
+projects, school work, or whenever I do extracurricular activities that are
+related to computer science like KU's Artificial Intelligence (AI) club,
+KU's Association for Computer Machinery, or KU Super Computing Club.
+
+This would also make me look like a person who is productive when I actually
+am really slow at getting things done. I hope this can help me get some nice
+internships.. those are hard to come by these days.
+
+WHAT I DID TODAY:
+	- Attend 2nd half of KUxFBI Cybersecurity Conference (yesterday I
+	  attended the first half)
+	- Completed my Lab6 for my Operating Systems course
+	- Set up a GitHub repository for daily personal documentation
+	- Attended AI Club
+
+WHATS OF MIND:
+	- There's a hackathon coming up tomorrow hosted by the AI club, we are
+	  to have an already prepared poker bot.. i have not started yet
+	- I want to start developing the GUI for my personal mobile app
+	  project, this app can be thought of as a productivity app.
+		- This app will keep track of the time usage of all the apps
+		  on phone
+		- users (though it will mainly just be me, im not partiularly
+		  interested in uploading this on the Google PlayStore) will
+		  set a time per hour, the app will force the user to collide
+		  with friction or have to send a one-time-password (OTP) to
+		  phone number that will allow them to use the apps
+		- I will probably resume the project on Friday (4.3.26)
+	- I would like to somehow paste my lab6 project to this day,
+	  considering if i should put the entire project and just highlight
+	  the changes and what my general thought process was throughout the
+	  project.
+	- Considering using Obsidian, the note taking app, to take these notes
+	  instead of just creating .txt file and using vim to edit it.
+TAKEAWAY:
+Experiment is good.
