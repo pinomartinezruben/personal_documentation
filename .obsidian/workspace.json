@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/april/4.7/4.7.26.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.7.26"
+              "title": "README"
             }
           }
         ]
@@ -187,6 +187,7 @@
   "active": "0c32c2c747f920e0",
   "lastOpenFiles": [
     "connection test.md",
+    "README.md",
     "2026/april/4.7/4.7.26.md",
     "2026/april/4.7"
   ]
