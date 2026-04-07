@@ -11,10 +11,14 @@
             "id": "0c32c2c747f920e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "connection test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "connection test"
             }
           }
         ]
@@ -180,6 +184,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "d633681d38a94cca",
-  "lastOpenFiles": []
+  "active": "0c32c2c747f920e0",
+  "lastOpenFiles": [
+    "connection test.md"
+  ]
 }
